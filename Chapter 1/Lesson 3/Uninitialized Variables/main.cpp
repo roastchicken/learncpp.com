@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int x;
+    std::cout << x;
+
+    return 0;
+}
